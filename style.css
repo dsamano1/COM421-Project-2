@@ -1,3 +1,13 @@
 #title{
     text-align: center;
 }
+.names {
+    display: flex;
+    justify-content: center;
+}
+section{
+    margin-left: 5%;
+}
+section a{
+    margin-left: 7.5%;
+}
