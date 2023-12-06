@@ -14,6 +14,9 @@ section{
 section a{
     margin-left: 7.5%;
 }
+figcaption{
+    margin-left: 3%;
+}
 
 img{
     margin-left: -5%;
@@ -21,9 +24,20 @@ img{
     width: 750px;
     height: 500px;
 }
+#image1{
+    margin-left: 3%;
+    width: 700px;
+}
 #image2{
     margin-left: 2.5%;
-    width: 700px;
+    width: 650px;
     height: 450px;
+}
+#UI_improv2{
+    margin-left: 3%;
+    width: 1200px;
+}
+#UI_improv1{
+    margin-left: 3%;
 }
 
